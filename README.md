@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anmolsoni28
 - 👀 I’m interested in software development basically, in webprogramming and machinelearning
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on Amazon.in
 - 📫 How to reach me - sonianmol28@gmail.com
 
